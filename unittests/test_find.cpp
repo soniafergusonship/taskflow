@@ -1,6 +1,7 @@
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 
 #include <doctest.h>
+#include <ranges>
 #include <taskflow/taskflow.hpp>
 #include <taskflow/algorithm/find.hpp>
 
